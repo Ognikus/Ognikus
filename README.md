@@ -6,7 +6,7 @@ I'm learning python, C#, Java and Web
 
 * 🌍  I'm based in Rostov, Russia
 * ✉️  You can contact me at [i@ognikus.ru](mailto:i@ognikus.ru)
-* 🧠  I'm learning Python, C#, Java and Web
+* 🧠  I'm learning Java and Web
 * 🤝  I'm open to collaborating on little projects
 
 ### Skills
